@@ -1,0 +1,52 @@
+table { width: 100%; margin: 0; padding: 0; font-size: small}
+table td { padding: 0; border-width: 0; vertical-align: top; font-family: Verdana, Arial, Helvetica, sans-serif;}
+div#content { padding: 0px; text-align: left;}
+div#content td { padding: 0px;}
+
+body { font-family: Tahoma, taipei; color;#000000; font-size: 5px}
+a { font-family: Tahoma, taipei; font-size: 12px; text-decoration: none; color: #002D80; font-style: normal}
+a:hover { text-decoration: underline overline;  font-family: Tahoma, taipei; font-size: 12px; color: #FF9966; font-style: normal}
+td {  font-family: Tahoma, taipei; color: #000000; font-size: 10px;border-top-width : 0px; border-right-width : 0px; border-bottom-width : 0px; border-left-width : 0px;}
+input { background-color : transparent; color : #000000; font-family : Tahoma, taipei, Verdana, Arial, Helvetica, sans-serif; font-size : 12px; font-weight : normal;border-color : #000000;  border-top-width : 1px; border-right-width : 1px; border-bottom-width : 1px; border-left-width : 1px;text-indent : 1px;  }
+textarea {font-family: Tahoma, taipei, Verdana, Arial, Helvetica, sans-serif; font-size: 12px;background-color : transparent; font-weight : bold; border-color : #000000;  border-top-width : 1px; border-right-width : 1px; border-bottom-width : 1px; border-left-width : 1px; text-indent : 1px;}
+select {font-family: Tahoma, taipei, Verdana, Arial, Helvetica, sans-serif; font-size: 12px;font-weight : bold;background-color:#DDE1DE; } 
+img { border: 0;}
+ul { margin: 1px; padding: 1px; list-style: decimal inside; text-align: left;}
+li { margin-left: 1px; list-style: disc inside;}
+
+.odd { background-color: #eeeeee;}
+.outer { background-color: #CCCCCC;}
+.even { background-color: #DDE1DE;}
+th { background-color: #e0e0e0; text-align: left; padding: 1px;}
+.head { background-color: #DDE1DE; padding: 1px;}
+.foot { background-color: #DDE1DE; padding: 0.5px;}
+
+.comTitle {font-weight: bold; margin-bottom: 2px;}
+.comText {padding: 2px;}
+.comUserStat {font-size: 10px; color: #DDE1DE; font-weight:bold; border: 2px solid #cccccc; background-color: #e0e0e0; margin: 2px; padding: 2px;}
+.comUserStatCaption {font-weight: normal;}
+.comUserStatus {margin-left: spx; margin-top: 10px; color: #DDE1DE; font-weight:bold; font-size: 10px;}
+.comUserRank {margin: 2px;}
+.comUserRankText {font-size: 10px;font-weight:bold;}
+.comUserRankImg {border: 0;}
+.comUserName {}
+.comUserImg {margin: 2px;}
+.comDate {font-weight: normal; font-style: italic; font-size: smaller}
+.comDateCaption {font-weight: bold; font-style: normal;}
+
+.item {border: 1px solid #cccccc;}
+.itemHead {background-color: #004080; color: #000000; padding: 1px; font-weight: bold; text-align: left;}
+.itemInfo {text-align: right; padding: 1px; background-color: #e0e0e0}
+.itemTitle a {font-size: 133%; font-weight: bold; font-variant: small-caps; color: #F5F5F5; background-color: transparent;}
+.itemPoster {font-size: 90%; font-style:italic;}
+.itemPostDate {font-size: 90%; font-style:italic;}
+.itemStats {font-size: 90%; font-style:italic;}
+.itemBody {padding-left: 10px; text-align: left}
+.itemText {margin-top: 5px; margin-bottom: 5px; line-height: 1em;}
+.itemText:first-letter {font-size: 133%; font-weight: bold;}
+.itemFoot {text-align: right; padding: 1px; background-color: #e0e0e0}
+.itemAdminLink {font-size: 100%;}
+.itemPermaLink {font-size: 100%;}
+
+.blockTitle {background-color: #004080; color: #FFFFFF; padding: 3px; font-weight: bold}
+.blockContent {background-color: #efefef; padding: 0.5px;}
